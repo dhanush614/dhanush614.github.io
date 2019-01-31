@@ -1,6 +1,7 @@
 /*
   Theme Name: DevFolio
-  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
+  Theme URL: https://bootstrapmade.com/devfolio-bootstrap-
+  html-template/
   Author: BootstrapMade.com
   License: https://bootstrapmade.com/license/
 */
@@ -670,10 +671,17 @@ a:hover {
 /*======================================
 //--//-->   ABOUT
 ======================================*/
+.about {
+  height: 100vh;
+  position: relative;
+  color: #fff;
+}
+
+
 
 .about-mf .box-shadow-full {
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
 }
 
 .about-mf .about-img {
